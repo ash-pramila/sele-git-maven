@@ -5,7 +5,7 @@ import org.junit.Before;
 import org.junit.Test;
 
 public class JunitGitTest {
-
+//A simple test
 	@Before
 	public void setUp() throws Exception {
 		System.out.println("Setup entered");
